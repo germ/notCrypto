@@ -1,0 +1,31 @@
+notCrypto: Encryption that can easily be broken but is good enough
+-=-=-=-=-
+
+Why: 	
+	Because I wanted to make something for encrypting my journals
+	just enough to fool any non programmers that take a look at it.
+
+	The algo is documented in the journal itself defeating its 
+	purpose. I plan on coming back to the journal in the future
+	and reimplmenting the algorithims from scratch.
+
+	Chances are github or my data will be long gone by then.
+
+This is stupid, why not use proper crypto?:
+	Because some days you just want a little bit of privacy and 
+	something to distract you. This is version1. As time goes on
+	and I get more ideas I will design and document them.
+
+	A note on the RNG: I needed something small that I could throw
+	into a small journal, not something cryptographicly secure.
+
+
+On Testing:
+	There are some tests in here that are really crap. I've never
+	been a big fan of tests but I did come to appriciate them  a
+	little more with this and will use them properly in the future
+
+	The tests are mostly there to allow me to quickly inspect some
+	facet of my code.
+
+tldr: Breakups suck.
